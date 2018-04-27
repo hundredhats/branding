@@ -88,3 +88,11 @@ code {
 .paris {
   background-color: #55d67a;
 }
+
+.link {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.hovered {
+  color: #ffbb00;
+}
